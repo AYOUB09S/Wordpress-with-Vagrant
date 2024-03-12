@@ -19,7 +19,7 @@ The WordPress folders are located on the NFS Share at the location: /mnt/wordpre
 
 # Components:
 
-MySQL:
-Apache:
-NFS Share:
-WordPress:
+MySQL
+Apache
+NFS Share
+WordPress
