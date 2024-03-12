@@ -13,13 +13,13 @@ wordpress-2
 NFS Share: nfs
 MySQL Database: mysql
 
-# The two WordPress applications will mount the WordPress folder into the following path: /opt/wordpress.
+The two WordPress applications will mount the WordPress folder into the following path: /opt/wordpress.
 
-# The WordPress folders are located on the NFS Share at the location: /mnt/wordpress.
+The WordPress folders are located on the NFS Share at the location: /mnt/wordpress.
 
 # Components:
 
-MySQL
-Apache
-NFS Share
-WordPress
+MySQL:
+Apache:
+NFS Share:
+WordPress:
